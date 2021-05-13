@@ -1,4 +1,4 @@
-## Welcome to QiShoooooou's GitHub Pages
+## Welcome to QiShoooooou's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/QiShoooooou/qishoooooou.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
